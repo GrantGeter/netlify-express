@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "build": "node app.js"
+    "start": "node run app.js",
+    "build": "node run app.js"
   },
   "engines": {
     "node": "14.17.5"
